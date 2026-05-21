@@ -15,7 +15,7 @@ No more manual data entry.
 
 ## How to Use
 
-1. Open the tool: **[URL to be added after deployment — Lesson 2.5]**
+1. Open the tool: **https://invoice-webapp-self.vercel.app**
 2. Drag your invoice PDF onto the upload area, or click to browse
 3. Click **Process Invoice**
 4. Review the extracted data — edit any field if needed
